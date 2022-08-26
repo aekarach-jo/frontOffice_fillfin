@@ -5,7 +5,7 @@ const nextConfig = {
   apiPath: 'http://api.fillfin.com',
   socketPath: 'http://socket.fillfin.com',
   images: {
-    domains: ['http://api.fillfin.com'],
+    domains: ['api.fillfin.com'],
   }
 }
 
