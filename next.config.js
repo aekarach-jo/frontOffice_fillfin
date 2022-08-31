@@ -2,8 +2,8 @@
 
 const nextConfig = {
   reactStrictMode: false,
-  apiPath: 'http://api.fillfin.com',
-  socketPath: 'http://socket.fillfin.com',
+  apiPath: 'https://api.fillfin.com',
+  socketPath: 'https://socket.fillfin.com',
   images: {
     domains: ['api.fillfin.com'],
   }
